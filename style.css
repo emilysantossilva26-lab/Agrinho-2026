@@ -180,3 +180,13 @@ button span {
     margin-left: 10px;
     font-size: 18px;
 }
+/* AJUSTE PARA A IMAGEM DO DRONE */
+.foto-drone {
+    width: 100%;          /* Faz a imagem ser responsiva */
+    max-width: 450px;     /* Define o tamanho máximo dela na tela (mude para mais ou menos se quiser) */
+    height: auto;         /* Mantém a proporção sem distorcer a foto */
+    display: block;       /* Ajuda no alinhamento */
+    margin: 20px auto;    /* Centraliza a imagem na página e dá um espaço em cima e embaixo */
+    border-radius: 10px;  /* Deixa as bordas arredondadas para combinar com o resto do site */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Dá uma leve sombra bonita na foto */
+}
