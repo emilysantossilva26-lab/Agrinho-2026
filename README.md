@@ -12,3 +12,5 @@
 🥈:JavaScript;
 
 🥉: style.css.
+
+📸: imagens.
